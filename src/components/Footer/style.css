@@ -1,0 +1,40 @@
+footer {
+  margin-top: 150px;
+  height: 125px;
+  bottom: 0;
+  background-color: #002147;
+  box-shadow: 1px 0px 10px black;
+  padding: 25px;
+}
+
+.content {
+  align-content: center;
+}
+
+.social-media {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.footer-icon {
+  font-size: 30px;
+  margin: 20px;
+}
+
+.footer-icon:hover {
+  color: #7fffd4;
+  margin: 20px;
+}
+
+@media only screen and (max-width: 480px) {
+  .footer-text {
+    font-size: small;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .footer-text {
+    font-size: x-small;
+  }
+}
