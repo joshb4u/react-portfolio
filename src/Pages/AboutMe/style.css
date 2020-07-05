@@ -1,0 +1,22 @@
+
+.josh{
+    
+    border: 2px solid black;
+    margin: 10px;
+    
+}
+
+
+.aboutme{
+    background-color: #002147;
+    box-shadow: 1px 0px 10px black;
+    padding: 25px;
+    font-size: medium;
+}
+
+@media (max-width: 426px){ 
+    .aboutme{
+        margin-right: -50px;
+        margin-left: -10px;
+    }
+}
