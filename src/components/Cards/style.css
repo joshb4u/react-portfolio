@@ -1,0 +1,7 @@
+@media (max-width: 768px){ 
+    .card-deck{
+        display: flex;
+        flex-direction: column;
+        padding: 25px;
+    }
+}
