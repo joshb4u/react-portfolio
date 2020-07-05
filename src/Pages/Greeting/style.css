@@ -1,0 +1,52 @@
+.greeting-text {
+  text-align: center;
+  padding: 10%;
+}
+
+.statement {
+  font-family: "Tomorrow", sans-serif;
+  font-size: large;
+}
+
+.email,
+strong {
+  font-family: "Tomorrow", sans-serif;
+  font-size: small;
+}
+
+#greeting {
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: auto;
+  width: 100vw;
+  padding: 10%;
+  box-shadow: 1px 0px 5px black;
+}
+
+.greeting-icon {
+  margin: 20px;
+  font-size: 25px;
+}
+
+
+#backgroundpic {
+  height: 100vh;
+  width: 100wh;
+  margin-left: 55px;
+}
+
+.fa-linkedin {
+  color: white
+}
+
+.fa-linkedin:hover {
+  color: #7fffd4;
+}
+
+.fa-github-square {
+  color: white
+}
+
+.fa-github-square:hover {
+  color: #7fffd4;
+}
