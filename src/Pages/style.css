@@ -26,36 +26,36 @@ section{
     margin-bottom: 200px;
 }
 
- @media (max-width: 1186.98px){ 
-
+@media (max-width: 1186.98px){ 
+    
     h1{
         font-size: x-large;
     }
-
+    
     .statement{
-
+        
         font-size: small;
-
+        
     }
+    
+}
 
- }
-
- /* width */
+/* width */
 ::-webkit-scrollbar {
     width: 10px;
-  }
-  
-  /* Track */
-  ::-webkit-scrollbar-track {
+}
+
+/* Track */
+::-webkit-scrollbar-track {
     background: #303E47;
-  }
-  
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
     background: whitesmoke;
-  }
-  
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
     background: #7fffd4;
-  }
+}
