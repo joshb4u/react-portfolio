@@ -1,0 +1,61 @@
+body{
+    background-image: url("../img/background.jpg");
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-family: 'Tomorrow', sans-serif;
+    font-size: 80px;
+}
+
+h4{
+    font-family: 'Tomorrow', sans-serif;
+}
+
+h5{
+    font-family: 'Tomorrow', sans-serif;
+}
+
+b{
+    color: white;
+}
+
+section{
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+ @media (max-width: 1186.98px){ 
+
+    h1{
+        font-size: x-large;
+    }
+
+    .statement{
+
+        font-size: small;
+
+    }
+
+ }
+
+ /* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #303E47;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: whitesmoke;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #7fffd4;
+  }
