@@ -1,0 +1,31 @@
+a{
+    color: black;
+}
+
+.card{
+    background-color: #002147;
+    border: 1px solid whitesmoke;
+    margin: 10px;
+    font-size: small;
+    box-shadow: 1px 0px 10px black;
+}
+
+div.card-body{
+    padding: 5px;
+    justify-content: space-around;
+}
+
+.btn{
+    background-color: whitesmoke;
+    border: 0px;
+    margin: 5%
+}
+.btn:hover{
+    background-color: #7fffd4;
+    color: #303E47;
+}
+
+h5{
+    color: white;
+    text-align: center;
+}
