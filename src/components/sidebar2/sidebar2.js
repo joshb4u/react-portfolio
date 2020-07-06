@@ -24,19 +24,12 @@ function Sidebar2() {
         </Link>
         </li>
         <li className="nav-item">
-        <a href="https://drive.google.com/file/d/1fH1mkb4eWO8_GZ4BYlEswj4lwr0N_7nA/view?usp=sharing" className="nav-link">
+        <a href="https://drive.google.com/file/d/1fH1mkb4eWO8_GZ4BYlEswj4lwr0N_7nA/view?usp=sharing" className="nav-link" target="_blank" rel="noopener noreferrer">
         <i className="fas fa-journal-whills"></i><span className="link-text"> RESUME</span>
         </a>
         </li>
-        {/* <li className="nav-item" id="last">
-        <a href="#" className="nav-link">
-        <i className="fas fa-caret-square-right" id="toggle"></i>
-        <i className="fas fa-caret-square-left" id="toggle2"></i>
-        </a>
-    </li> */}
     </ul>
     </nav>
-    
     );
 }
 

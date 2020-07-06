@@ -9,8 +9,8 @@ function Card(props) {
         <div className="card-body">
         <h5 className="card-title">{app.name}</h5>
         <p className="card-text">{app.description}</p>
-        <button type="button" className="btn btn-light btn-sm"><a href={app.links.githubUrl}>GITHUB</a></button>
-        <button type="button" className="btn btn-light btn-sm"><a href={app.links.demoUrl}>LIVE</a></button>
+        <button type="button" className="btn btn-light btn-sm"><a href={app.links.githubUrl} target="_blank" rel="noopener noreferrer">GITHUB</a></button>
+        <button type="button" className="btn btn-light btn-sm"><a href={app.links.demoUrl} target="_blank" rel="noopener noreferrer">LIVE</a></button>
         </div>
         </div>
         )

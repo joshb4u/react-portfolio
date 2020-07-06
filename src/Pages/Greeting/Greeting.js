@@ -10,13 +10,10 @@ function Greeting() {
     Welcome to my Portfolio Website.
     </p>
     <div className="social-media">
-    <a href="https://github.com/joshb4u" className="greeting-link">
+    <a className="greeting-link" href="https://github.com/joshb4u" target="_blank" rel="noopener noreferrer">
     <i className="fab fa-github-square greeting-icon"></i>
     </a>
-    <a
-    href="https://www.linkedin.com/in/josh-george-237b7b1a1/"
-    className="greeting-link"
-    >
+    <a className="greeting-link" href="https://www.linkedin.com/in/josh-george-237b7b1a1/" target="_blank" rel="noopener noreferrer">
     <i className="fab fa-linkedin greeting-icon"></i>
     </a>
     </div>
