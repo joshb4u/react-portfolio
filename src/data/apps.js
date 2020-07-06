@@ -6,25 +6,25 @@ const apps = [
     image: require("../img/burger.png"),
     imagewebp: require("../img/burger.webp"),
     links: {
-      githubUrl: "https://github.com/joshb4u/Hw13",
+      githubUrl: "https://github.com/joshb4u/Eat-Da-Burger",
       demoUrl: "https://whispering-everglades-09702.herokuapp.com/",
     },
   },
   {
-    name: "Weather Dashboard",
+    name: "Employee Directory",
     description:
-      "A Weather Dashboard for displaying weather information for any city.",
-    image: require("../img/weather.png"),
-    imagewebp: require("../img/weather.webp"),
+      "An employee directory app created with React framework which uses component state and responds to user events.",
+    image: require("../img/employee.png"),
+    imagewebp: require("../img/employee.webp"),
     links: {
-      githubUrl: "https://github.com/joshb4u/Hw6",
-      demoUrl: "https://joshb4u.github.io/Hw6/",
+      githubUrl: "https://github.com/joshb4u/employee_directory_react",
+      demoUrl: "https://joshb4u.github.io/employee_directory_react/",
     },
   },
   {
     name: "Master Home Cook",
     description:
-      "A webpage for viewing food recipes for cooking enthusiasts.",
+      "A webpage for searching and viewing videos of food recipes for cooking enthusiasts.",
     image: require("../img/masterhomecook.png"),
     imagewebp: require("../img/masterhomecook.webp"),
     links: {
