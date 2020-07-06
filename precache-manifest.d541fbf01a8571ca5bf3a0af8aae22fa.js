@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06ba05a210e38eb1120aac1a5465fb9b",
+    "revision": "b9e730bddbf257be81a3074c1cdbf0ba",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "840fc44757088a7c5d56",
+    "revision": "7fabb168c1f0372d3acf",
     "url": "/react-portfolio/static/css/main.856f5802.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.90057ff5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "840fc44757088a7c5d56",
-    "url": "/react-portfolio/static/js/main.88186720.chunk.js"
+    "revision": "7fabb168c1f0372d3acf",
+    "url": "/react-portfolio/static/js/main.251db13a.chunk.js"
   },
   {
     "revision": "aff33cef9dbb8787d6b3",
@@ -34,6 +34,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1454758f25757872887bd7825dfa6946",
     "url": "/react-portfolio/static/media/burger.1454758f.webp"
+  },
+  {
+    "revision": "249dcb7e2de433d2edd8a637524770c4",
+    "url": "/react-portfolio/static/media/employee.249dcb7e.png"
+  },
+  {
+    "revision": "249dcb7e2de433d2edd8a637524770c4",
+    "url": "/react-portfolio/static/media/employee.249dcb7e.webp"
   },
   {
     "revision": "3798dc5fd507e70be42375a531761a47",
@@ -54,13 +62,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ac950fa105d666c0a45ddfc6b9d728df",
     "url": "/react-portfolio/static/media/portfoliopic.ac950fa1.png"
-  },
-  {
-    "revision": "49aa90ee1600b594194fd1aa235302b6",
-    "url": "/react-portfolio/static/media/weather.49aa90ee.png"
-  },
-  {
-    "revision": "49aa90ee1600b594194fd1aa235302b6",
-    "url": "/react-portfolio/static/media/weather.49aa90ee.webp"
   }
 ]);
