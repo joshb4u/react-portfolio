@@ -28,8 +28,8 @@ const apps = [
     image: require("../img/masterhomecook.png"),
     imagewebp: require("../img/masterhomecook.webp"),
     links: {
-      githubUrl: "https://github.com/maxguojiaqi/Master-Home-Cook",
-      demoUrl: "https://maxguojiaqi.github.io/Master-Home-Cook/",
+      githubUrl: "https://github.com/joshb4u/Master-Home-Cook",
+      demoUrl: "https://joshb4u.github.io/Master-Home-Cook/",
     },
   },
   {
@@ -39,7 +39,7 @@ const apps = [
     image: require("../img/gotchitama.png"),
     imagewebp: require("../img/gotchitama.webp"),
     links: {
-      githubUrl: "https://github.com/sandyboon/gotchitama",
+      githubUrl: "https://github.com/joshb4u/gotchitama",
       demoUrl: "https://sleepy-badlands-73130.herokuapp.com/",
     },
   },
