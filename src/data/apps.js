@@ -11,14 +11,14 @@ const apps = [
     },
   },
   {
-    name: "Employee Directory",
+    name: "Google Books",
     description:
-      "An employee directory app created with React framework which uses component state and responds to user events.",
-    image: require("../img/employee.png"),
-    imagewebp: require("../img/employee.webp"),
+      "A React-based Google Books Search & Save app is created here using Google Books API.",
+    image: require("../img/googlebooks.png"),
+    imagewebp: require("../img/googlebooks.webp"),
     links: {
-      githubUrl: "https://github.com/joshb4u/employee_directory_react",
-      demoUrl: "https://joshb4u.github.io/employee_directory_react/",
+      githubUrl: "https://github.com/joshb4u/Google-Books-Search",
+      demoUrl: "https://fierce-journey-30633.herokuapp.com/",
     },
   },
   {
