@@ -18,7 +18,7 @@ function AboutMe() {
     <b>Location:</b> Ottawa, Ontario
     </p>
     <p>
-    I am completing my Masters in Computer Science at Carleton University. I am interested in Machine Learning & Web Development. I currently have skills in HTML, CSS, Bootstrap, Javascript, jQuery, Semantic UI, Node JS, APIs etc. I am eager to put my passion, strengths, and new skills to work for an innovative and dynamic company. I also have an Electrical Engineering degree. With proven social skills, team experience, tech skills and the strongest desire to learn, I can be a technically flexible and great addition to any team. I am passionate about programming with key interest in both designs and animations.
+    I am completing my Masters in Computer Science at Carleton University (Graduation Date: Feb 25, 2022). I am interested in Machine Learning & Web Development. I currently have skills in HTML, CSS, Bootstrap, Javascript, jQuery, Semantic UI, Node JS, APIs etc. I am eager to put my passion, strengths, and new skills to work for an innovative and dynamic company. I also have an Electrical Engineering degree. With proven social skills, team experience, tech skills and the strongest desire to learn, I can be a technically flexible and great addition to any team.
     </p>
     </div>
     </section>

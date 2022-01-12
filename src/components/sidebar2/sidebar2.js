@@ -24,7 +24,7 @@ function Sidebar2() {
         </Link>
         </li>
         <li className="nav-item">
-        <a href="https://drive.google.com/file/d/1fH1mkb4eWO8_GZ4BYlEswj4lwr0N_7nA/view?usp=sharing" className="nav-link" target="_blank" rel="noopener noreferrer">
+        <a href="https://drive.google.com/file/d/1U8i6eqBAFjxOsbtf8fS_j8FaRy2qZk7q/view?usp=sharing" className="nav-link" target="_blank" rel="noopener noreferrer">
         <i className="fas fa-journal-whills"></i><span className="link-text"> RESUME</span>
         </a>
         </li>

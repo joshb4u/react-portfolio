@@ -36,16 +36,32 @@ class ContactForm extends React.Component {
       <form onSubmit={this.handleSubmit}>
       <p>
       <label>
-      joshbabugeorge@gmail.com
-      </label>
-      <label>
-      joshbabugeorge@cmail.carleton.ca
+      Email ID 1 : joshbabugeorge@gmail.com
       </label>
       </p>
       <p>
       <label>
-      joshb4u@gmail.com
+      Email ID 2 : joshbabugeorge@cmail.carleton.ca
       </label>
+      </p>
+      <p>
+      <label>
+      Email ID 3: joshb4u@gmail.com
+      </label>
+      </p>
+      <p>
+      <label>
+      Location: Ottawa, Canada
+      </label>
+      </p>
+      <p>
+      <a href="https://github.com/joshb4u" className="nav-link" target="_blank" >Click here to see my Github Repostories!</a>
+      </p>
+      <p>
+      <a href="https://www.linkedin.com/in/josh-george-237b7b1a1/" className="nav-link" target="_blank" >Click here to see my LinkedIn Profile!</a>
+      </p>
+      <p>
+      <a href="https://drive.google.com/file/d/1U8i6eqBAFjxOsbtf8fS_j8FaRy2qZk7q/view?usp=sharing" className="nav-link" target="_blank" >Click here to see my Resume!</a>
       </p>
       </form>
       </div>

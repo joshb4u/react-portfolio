@@ -18,7 +18,7 @@ function Greeting() {
     </a>
     </div>
     <p className="email">
-    <strong>Email: </strong> joshb4u@gmail.com
+    <strong>Email: </strong> joshbabugeorge@cmail.carleton.ca
     </p>
     </div>
     </header>
