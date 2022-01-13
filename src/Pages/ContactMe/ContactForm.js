@@ -36,17 +36,12 @@ class ContactForm extends React.Component {
       <form onSubmit={this.handleSubmit}>
       <p>
       <label>
-      Email ID 1 : joshbabugeorge@gmail.com
+      Email ID 1 : joshbabugeorge@cmail.carleton.ca
       </label>
       </p>
       <p>
       <label>
-      Email ID 2 : joshbabugeorge@cmail.carleton.ca
-      </label>
-      </p>
-      <p>
-      <label>
-      Email ID 3: joshb4u@gmail.com
+      Email ID 2 : joshbabugeorge@gmail.com
       </label>
       </p>
       <p>
