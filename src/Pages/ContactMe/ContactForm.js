@@ -56,7 +56,7 @@ class ContactForm extends React.Component {
       <a href="https://www.linkedin.com/in/josh-george-237b7b1a1/" className="nav-link" target="_blank" >Click here to see my LinkedIn Profile!</a>
       </p>
       <p>
-      <a href="https://drive.google.com/file/d/1U8i6eqBAFjxOsbtf8fS_j8FaRy2qZk7q/view?usp=sharing" className="nav-link" target="_blank" >Click here to see my Resume!</a>
+      <a href="https://drive.google.com/file/d/1i1wF9b5lMi8xGuvo_3w6BEI3s4q9wAGb/view?usp=sharing" className="nav-link" target="_blank" >Click here to see my Resume!</a>
       </p>
       </form>
       </div>
